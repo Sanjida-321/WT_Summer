@@ -1,0 +1,63 @@
+body{
+background-color: lightblue;
+}
+
+.head{
+    background-color:rgb(104, 227, 231);
+    margin: 2px;
+    text-align: center;
+    height: 140px;
+    padding-top: 20px;
+}
+
+.nav {
+background-color: rgb(95, 2, 182);
+height: 40px;
+
+}
+.nav button{
+    background-color: transparent;
+    border: none;
+    color: white;
+    height: 40px;
+    margin-left: 20px;
+}
+
+
+
+.reg{
+    border-left: 10px solid steelblue;
+    background-color: aqua;
+    height: 40px;
+    margin-top:10px;
+    margin-bottom: 30px;
+    
+}
+
+.data{
+    
+    background-color: yellow;
+    text-align: left;
+   
+}
+
+
+
+.btn{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: blue;
+    text-align: center;
+    
+}
+
+.submit{
+    background-color:blue;
+    color: black;
+}
+
+.reset{
+    background-color:blue;
+    color: black;
+}
